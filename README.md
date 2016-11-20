@@ -1,6 +1,7 @@
 # to - the door
 This project is based on [yomogimaru/i4arduboy](https://github.com/yomogimaru/i4arduboy).  
 Game genre was a shooting game of the i4arduboy, but 'to' is an action game.
+[日本語はこちら](https://github.com/waday/to/blob/master/README_ja.md).
 
 ## Environment
 - **Hardware**: Arduboy
@@ -30,5 +31,5 @@ Let's avoid the enemy's attack by moving the door and Aim for high scores.
  + **Directional buttons**: Move the door to the left and right
  + **Button A**: Jump the door / Confirm
  + **Button B**: Distort the space / Cancel
- + * A+B+Left (only in level): Return to title
+ + **A+B+Left (only in level)**: Return to title
 
