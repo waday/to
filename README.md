@@ -1,6 +1,5 @@
 # to - the door
-![image](https://github.com/waday/to/blob/master/sample/image.png)  
-![movie](https://github.com/waday/to/blob/master/sample/movie.gif)
+![movie](https://github.com/waday/to/blob/master/sample/movie.gif)  
 This project is based on [yomogimaru/i4arduboy](https://github.com/yomogimaru/i4arduboy).  
 Game genre was a shooting game of the i4arduboy, but 'to' is an action game.  
 [日本語はこちら](https://github.com/waday/to/blob/master/README_ja.md).

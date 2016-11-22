@@ -1,6 +1,5 @@
 # 扉
-![image](https://github.com/waday/to/blob/master/sample/image.png)  
-![movie](https://github.com/waday/to/blob/master/sample/movie.gif)
+![movie](https://github.com/waday/to/blob/master/sample/movie.gif)  
 本プロジェクトのベース部分は[yomogimaru/i4arduboy](https://github.com/yomogimaru/i4arduboy)のプログラムを流用しています。流用元のゲームジャンルはシューティングですが、内容がアクションに変更されています。
 
 ## 環境
