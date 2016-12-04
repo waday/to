@@ -79,7 +79,8 @@ void loop()
     } break;
 
     case SCENE_NAME_ENTRY: {
-      if(nameEntry.loop(core)) {
+      if(nameEntry.loop(core) || 
+        core.pressed(BTN_A) && core.pressed(BTN_B) && core.pressed(BTN_L)) {
         ranking.enterScore(nameEntry.getScore(), nameEntry.getName());
         title.onEntry();
         scene = SCENE_TITLE;
